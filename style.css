@@ -7,9 +7,7 @@
   background-color: #ee55e7;
   border-radius: 8px;
   text-decoration: none;
-  transition: background 0.3s ease;
 }
-
 
 .button:hover {
   background-color: #f081a4;
@@ -19,4 +17,14 @@
   display: flex;
   justify-content: center;
   margin-top: 200px;
+}
+
+body {
+  background-color: black;
+}
+
+.video {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
