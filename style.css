@@ -1,0 +1,22 @@
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(21, 21, 21);
+  background-color: #ee55e7;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+
+.button:hover {
+  background-color: #f081a4;
+}
+
+.dil {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
